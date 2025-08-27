@@ -141,10 +141,6 @@
     background-color: var(--cloud);
 }
 
- .main-team-section li {
-    background-color: var(--white);
-                       }
-
  .main-team-title {
     line-height: 1.11;
     text-align: center;
